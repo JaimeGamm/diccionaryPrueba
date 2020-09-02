@@ -24,7 +24,7 @@ public class Control {
 	private void init() {
 		dictionarySpanishEnglish.addWordSpanishTranslation("casa", "house");
 		dictionarySpanishEnglish.addWordSpanishTranslation("gato", "cat");
-//		dictionarySpanishEnglish.addWordSpanishTranslation("carro", "car");
+		dictionarySpanishEnglish.addWordSpanishTranslation("carro", "car");
 //		dictionarySpanishEnglish.addWordSpanishTranslation("palabra", "word");
 	}
 	 public void mainMenu() {
