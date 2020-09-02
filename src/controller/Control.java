@@ -5,6 +5,7 @@ import model.Dictionary;
 import view.IoManager;
 
 public class Control {
+//	hola prueba 
 	public static final int OPTION_SPANISH_ENGLISH = 1;
 	public static final int OPTION_SPANISH_FRENCH = 2;
 	public static final String DICTIONARY_SPANISH_INGLESH = "ESPAÑOR INGLES";
@@ -23,8 +24,8 @@ public class Control {
 	private void init() {
 		dictionarySpanishEnglish.addWordSpanishTranslation("casa", "house");
 		dictionarySpanishEnglish.addWordSpanishTranslation("gato", "cat");
-		dictionarySpanishEnglish.addWordSpanishTranslation("carro", "car");
-		dictionarySpanishEnglish.addWordSpanishTranslation("palabra", "word");
+//		dictionarySpanishEnglish.addWordSpanishTranslation("carro", "car");
+//		dictionarySpanishEnglish.addWordSpanishTranslation("palabra", "word");
 	}
 	 public void mainMenu() {
     	 int op=0;
